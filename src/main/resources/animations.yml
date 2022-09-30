@@ -1,0 +1,19 @@
+animations:
+  test:
+    loop: false
+    frames:
+      1:
+        value: "1"
+        length: 10
+      2:
+        value: "2"
+        length: 20
+      3:
+        value: "3"
+        length: 30
+      4:
+        value: "4"
+        length: 40
+      5:
+        value: "5"
+        length: 50

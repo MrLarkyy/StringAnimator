@@ -1,0 +1,4 @@
+name: StringAnimator
+version: '${project.version}'
+main: cz.larkyy.actionbaranimator.StringAnimatorPluginImpl
+api-version: 1.16
